@@ -1,5 +1,17 @@
-### Hi there I'm Bilal👋
-![image](https://github.com/bilalahmed1905/bilalahmed1905/assets/75496192/800d903a-a539-4e91-9921-924b83249598)
+### Hi there I'm Bilal 👋
+
+- 💻
+- 🇨🇦
+- Student in Grade 11 (almost Grade 12) 
+- 3 years of experience in HTML5, JS and CSS
+- 2 years of experience in NodeJS :
+- 1 year of experience in Java and Java Swing
+- 6 months of experience in React and React Router
+- 6 months of experience in Electron
+- 🔭 Currently working on a Website Generator. 
+- 🌱 I’m currently learning python and more advanced NodeJS tools
+- 👯 I’m looking to collaborate on a game jam or hackathon
+- 💬 For Inquiries contact me at -> Spino#1906
 
 <!--
 **bilalahmed1905/bilalahmed1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
