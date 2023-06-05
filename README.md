@@ -10,7 +10,7 @@
 - 🔭 Currently working on a Website Generator. 
 - 🌱 I’m currently learning python and more advanced NodeJS tools
 - 👯 I’m looking to collaborate on a game jam or hackathon
-- 💬 For Inquiries contact me at -> Spino#1906
+- 💬 For Inquiries contact me at -> **Spino#1906**
 
 <!--
 **bilalahmed1905/bilalahmed1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
