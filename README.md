@@ -1,6 +1,5 @@
 ### Hi there I'm Bilal 👋
 
-- Student in Grade 11 (almost Grade 12) 
 - 3 years of experience in HTML5, JS and CSS
 - 2 years of experience in NodeJS :
 - 1 year of experience in Java and Java Swing
