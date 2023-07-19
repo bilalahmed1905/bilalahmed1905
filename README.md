@@ -1,8 +1,8 @@
 ### Hi there I'm Bilal 👋
 
-- 3 years of experience in HTML5, JS and CSS
-- 2 years of experience in NodeJS :
-- 1 year of experience in Java and Java Swing
+- 3+ years of experience in HTML5, JS and CSS
+- 2+ years of experience in NodeJS :
+- Over a year of experience in Java and Java Swing
 - 6 months of experience in React and React Router
 - 6 months of experience in Electron
 
