@@ -3,13 +3,13 @@
 - 3+ years of experience in HTML5, JS and CSS
 - 2+ years of experience in NodeJS :
 - Over a year of experience in Java and Java Swing
-- 6 months of experience in React and React Router
-- 6 months of experience in Electron
+- 6+ months of experience in React and React Router
+- 6+ months of experience in Electron
 
 - 🔭 Currently working on a Website Generator. 
 - 🌱 I’m currently learning python and more advanced NodeJS tools
 - 👯 I’m looking to collaborate on a game jam or hackathon
-- 💬 For Inquiries contact me on Discord at -> **Spino#1906**
+- 💬 For Inquiries contact me on Discord at -> **@therealspino**
 
 <!--
 **bilalahmed1905/bilalahmed1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
