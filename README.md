@@ -1,12 +1,12 @@
 ### Hi there I'm Bilal 👋
 
-- 4+ years of experience in HTML5, JS and CSS
+- 5+ years of experience in HTML5, JS and CSS
 - 2+ years of experience in NodeJS :
 - 2+ years of experience in Java
 - 6+ months of experience in React and React Router
 - 6+ months of experience in Electron
 
-- 🔭 Currently working on a Website Generator. 
+- 🔭 Currently working on a Website Generator with AI enhancements. 
 - 🌱 I’m currently learning python and more advanced NodeJS tools
 - 👯 I’m looking to collaborate on a game jam or hackathon
 - 💬 For Inquiries contact me on Discord at -> **@therealspino**
