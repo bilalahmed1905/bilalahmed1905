@@ -1,13 +1,12 @@
 ### Hi there I'm Bilal 👋
 
-- 5+ years of experience in HTML5, JS and CSS
-- 2+ years of experience in NodeJS :
-- 2+ years of experience in Java
-- 6+ months of experience in React and React Router
-- 6+ months of experience in Electron
+3rd year Computer Science Student. 
+Experience in lots of different languages and frameworks including HTML, CSS, JS, React, Electron, Java, C/C++, Python, JavaFX.
 
-- 🔭 Currently working on a Website Generator with AI enhancements. 
-- 🌱 I’m currently learning python and more advanced NodeJS tools
+Currentl
+
+- 🔭 Currently working on MusiBrain: An LLM powered music reccomendation platform that reccomends music based on emotion not statistics. 
+- 🌱 I’m currently more about AI and LLM orchestration
 - 👯 I’m looking to collaborate on a game jam or hackathon
 - 💬 For Inquiries contact me on Discord at -> **@therealspino**
 
